@@ -1,4 +1,4 @@
 # ACMMM2022
 ACM Multimedia 2022.
-Moods expired by “Neo Klimt”: Generative 2D Art as a New Direction of Multimedia Experience.
-Generative Art Library Abstraction (GALA) Expired by Neo Klimt: Processing 2K2D Images with Implications for Interaction & Perception.
+Generative Art Library Abstraction Expired by Neo Klimt (GALA-K): Processing 2K2D Images with Research Implications for Interaction and Perception
+HCI Experience in dialogs: Image Language in Human-Agent Teams: Concept and Call for Action
