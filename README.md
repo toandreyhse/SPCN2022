@@ -2,6 +2,6 @@
 
 ACM Multimedia 2022
 
-Generative Art Library Abstraction Expired by Neo Klimt (GALA): Processing 2K2D Images with Research Implications for Interaction and Perception.  (CC BY-NC-ND License)
+GALA Expired by Neo Klimt: 2D Images Processing with Implementation for Interaction and Perception Studies.  (CC BY-NC-ND License)
 
-HCI Experience in dialogs: Image Language in Human-Agent Teams: Concept and Call for Action.
+HCI Experience in dialogs: Image Language in Human-Agent Teams.
