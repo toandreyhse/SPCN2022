@@ -1,7 +1,7 @@
-# ACMMM2022
+# SPCN2022
 
-ACM Multimedia 2022
+Video and Audio Signal Processing in the Context of Neurotechnologies 2022
 
-GALA Expired by Neo-Klimt: 2D Images Processing with Implementation for Interaction and Perception Studies.  (CC BY-NC-ND License)
+Moods Inspired by Klimt’s artworks in VR settings: Call for Action (CC BY-NC-ND License)
 
-HCI Experience in Dialogs: Image Language in Human-Agent Teams.
+Human-Computer Interaction Experience in Dialogs: Learning Visual Language Protocol 
